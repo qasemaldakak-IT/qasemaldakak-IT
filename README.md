@@ -12,15 +12,11 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **Network Engineering Student** passionate about networking, system administration, and software development.  
+I am Qasem Al-Daqqaq, a Network Engineering student with experience in networking fundamentals, Windows Server administration, and C# development.
 
-💡 I have experience with:
+Passionate about networking, cybersecurity, and problem solving, I enjoy learning new technologies and building practical projects to improve my technical skills.
 
-- 🌐 Networking Fundamentals
-- 🖥️ Windows Server Administration
-- 🔐 Basic Network Security
-- 💻 C# Programming
-- ⚙️ Troubleshooting & System Configuration
+Currently focused on expanding my knowledge in backend development, system administration, and enterprise networking.
 
 ---
 
@@ -65,14 +61,14 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Socials
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/qasemaldakak-IT)
 
 ---
 
 <div align="center">
 
-### ⚡ “Always learning, always building.”
+### ⚡ Always learning, always building.
 
 </div>
