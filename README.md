@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Qasem Al-Daqqaq
+# 👋 Hi, I'm Qasem Al-Dakak
 
 ### Network Engineering Student | Windows Server | C# Developer
 
@@ -57,9 +57,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=qasemaldakak-IT&show_icons=true&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasemaldakak-IT&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
