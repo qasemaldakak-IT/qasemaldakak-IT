@@ -12,11 +12,15 @@
 
 ## 🚀 About Me
 
-I am Qasem Al-Daqqaq, a Network Engineering student with experience in networking fundamentals, Windows Server administration, and C# development.
+🎓 I'm a **Network Engineering Student** passionate about networking, system administration, and software development.  
 
-Passionate about networking, cybersecurity, and problem solving, I enjoy learning new technologies and building practical projects to improve my technical skills.
+💡 I have experience with:
 
-Currently focused on expanding my knowledge in backend development, system administration, and enterprise networking.
+- 🌐 Networking Fundamentals
+- 🖥️ Windows Server Administration
+- 🔐 Basic Network Security
+- 💻 C# Programming
+- ⚙️ Troubleshooting & System Configuration
 
 ---
 
@@ -53,22 +57,22 @@ Currently focused on expanding my knowledge in backend development, system admin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qasemaldakak-IT&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasemaldakak-IT&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
 
 ---
 
-## 🌐 Socials
+## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/qasemaldakak-IT)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 
 ---
 
 <div align="center">
 
-### ⚡ Always learning, always building.
+### ⚡ “Always learning, always building.”
 
 </div>
