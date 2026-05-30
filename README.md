@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-  
-<h2>Qasem Al-Dakak</h2> 
 
-### Network Engineering Student | Windows Server Administrator | C# Developer
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+
+<h2>Qasem Al-Dakak</h2>
+
+### Network Engineering Student | Windows Server | System & Network Administration | C# Programming
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 
@@ -13,25 +14,29 @@
 
 ## 🚀 About Me
 
-I am a Network Engineering student passionate about networking, system administration, and backend technologies.
+I am a Network Engineering student focused on enterprise networking, Windows Server administration, and system infrastructure.
 
-Currently studying MCSA and working on a Windows Server 2022 project that includes deploying and managing multiple enterprise services.
+Currently working on a Windows Server 2022 project involving core enterprise services such as Active Directory, DNS, DHCP, IIS, and Group Policy.
 
-I have knowledge in networking fundamentals, object-oriented programming using C#, and basic Linux command-line administration.
+I have practical knowledge in networking fundamentals, C# programming (OOP), and basic Linux administration.
+
+I am currently preparing for entry-level IT roles in system and network administration.
 
 ---
 
-## 🖥️ Current Server Project
+## 🖥️ Current Project
 
-🔹 Windows Server 2022 Environment  
-🔹 Active Directory Domain Services (AD DS)  
-🔹 DNS Server  
-🔹 DHCP Server  
-🔹 IIS Web Server  
-🔹 Windows Deployment Services (WDS)  
-🔹 Network Load Balancing (NLB)  
-🔹 Group Policy Management  
-🔹 FTP Server Configuration  
+### Windows Server 2022 Enterprise Network Project
+
+This project simulates a small enterprise (hospital-style) network environment designed for learning and practice.
+
+**Core Services:**
+- Active Directory Domain Services (AD DS)
+- DNS Server
+- DHCP Server
+- IIS Web Server
+- Group Policy Management
+- FTP Server Configuration
 
 ---
 
@@ -66,11 +71,10 @@ I have knowledge in networking fundamentals, object-oriented programming using C
 
 ## 📚 Currently Learning
 
-- MCSA
 - Windows Server Administration
-- Enterprise Networking
-- Cybersecurity Fundamentals
-- ASP.NET Backend Development
+- Enterprise Networking Fundamentals
+- MCSA Concepts
+- ASP.NET MVC Basics
 
 ---
 
@@ -81,23 +85,5 @@ I have knowledge in networking fundamentals, object-oriented programming using C
 <img src="https://github-readme-stats.vercel.app/api?username=qasemaldakak-IT&show_icons=true&theme=tokyonight" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasemaldakak-IT&layout=compact&theme=tokyonight" width="48%" />
-
-</div>
-
----
-
-
-## 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/qasemaldakak-IT)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/qasemaldakak)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qasem-aldakak)
-
-
-<div align="center">
-
-### ⚡ Always learning, always building.
 
 </div>
